@@ -29,6 +29,7 @@ require (
 	github.com/hashicorp/consul v1.2.2
 	github.com/hashicorp/go-cleanhttp v0.0.0-20171218145408-d5fe4b57a186 // indirect
 	github.com/hashicorp/go-rootcerts v0.0.0-20160503143440-6bb64b370b90 // indirect
+	github.com/hashicorp/logutils v0.0.0-20150609070431-0dc08b1671f3 // indirect
 	github.com/hashicorp/serf v0.8.1 // indirect
 	github.com/hudl/fargo v1.2.0
 	github.com/influxdata/influxdb v1.6.1
@@ -37,6 +38,7 @@ require (
 	github.com/miekg/dns v1.0.8 // indirect
 	github.com/mitchellh/go-homedir v1.0.0 // indirect
 	github.com/mitchellh/mapstructure v1.0.0 // indirect
+	github.com/nats-io/gnatsd v1.2.0
 	github.com/nats-io/go-nats v1.5.0
 	github.com/nats-io/nuid v1.0.0 // indirect
 	github.com/oklog/oklog v0.3.2
@@ -48,6 +50,7 @@ require (
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.3.4
 	github.com/openzipkin/zipkin-go v0.1.1
 	github.com/openzipkin/zipkin-go-opentracing v0.3.4 // indirect
+	github.com/pact-foundation/pact-go v0.0.13
 	github.com/pborman/uuid v0.0.0-20180122190007-c65b2f87fee3
 	github.com/performancecopilot/speed v3.0.0+incompatible
 	github.com/pierrec/lz4 v2.0.3+incompatible // indirect
